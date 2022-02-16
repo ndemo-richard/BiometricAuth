@@ -2,4 +2,7 @@
     <string name="app_name">BiometricAuth</string>
     <string name="please_authenticate_yourself">please authenticate yourself</string>
     <string name="todo">TODO</string>
+    <string name="authentication_successful">Authentication successful</string>
+    <string name="simple_phrase">somethings are beautiful when left simple</string>
+    <string name="quote">somethings are beautiful when simple</string>
 </resources>

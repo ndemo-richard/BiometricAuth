@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/2022/Android_projects/BiometricAuth/app/src/main/res/drawable-v24/fingerprint_selector.xml" value="0.202" />
         <entry key="..\:/2022/Android_projects/BiometricAuth/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22" />
-        <entry key="..\:/2022/Android_projects/BiometricAuth/app/src/main/res/layout/activity_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/2022/Android_projects/BiometricAuth/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/2022/Android_projects/BiometricAuth/app/src/main/res/layout/activity_main.xml" value="0.5" />
       </map>
     </option>
   </component>

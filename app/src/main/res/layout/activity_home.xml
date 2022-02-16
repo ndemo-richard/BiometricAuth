@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    app:layout_anchorGravity="bottom"
     tools:context=".HomeActivity">
 
     <ImageView
@@ -12,14 +13,23 @@
         android:layout_height="46dp"
         android:layout_gravity="center"
         android:layout_marginTop="40dp"
+        android:contentDescription="@string/todo"
         app:srcCompat="@drawable/ic_checkmark" />
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_gravity="center"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:text="Authentication successful"/>
+        android:layout_gravity="bottom|center"
+        android:text="@string/authentication_successful"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+
+    <TextView
+        android:id="@+id/quote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quote" />
+
 
 </LinearLayout>
